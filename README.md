@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Uma lista de tarefas em react native e utilizando o firebase para armazenamento dos dados do app.
+Uma lista de tarefas em react native utilizando o firebase para armazenamento dos dados do app.
 
 ## Técnologias utilizadas no projeto
 - JavaScript
