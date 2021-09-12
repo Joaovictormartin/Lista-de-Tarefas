@@ -1,4 +1,4 @@
-﻿# Lista de Tarefas ReactNative
+﻿# Lista de Tarefas React Native
 
 ## Sobre o projeto
 
